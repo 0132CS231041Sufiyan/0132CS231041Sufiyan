@@ -39,9 +39,9 @@
 ---
 
 # 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=0132CS231041Sufiyan&theme=tokyonight&hide_border=true" />
-</p>p>
+</p>
 ---
 
 # 🐍 Contribution Snake
