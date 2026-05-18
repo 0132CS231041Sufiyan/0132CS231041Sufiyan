@@ -42,11 +42,11 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=0132CS231041Sufiyan&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/0132CS231041Sufiyan/0132CS231041Sufiyan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
